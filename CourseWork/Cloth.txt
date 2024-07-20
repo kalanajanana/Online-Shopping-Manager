@@ -1,0 +1,3 @@
+C001-Short-Clothing-40.0-Large,Brown-Large-Brown-7
+C002-TShirt-Clothing-30.0-Small,Black-Small-Black-3
+C003-Shirt-Clothing-10.0-Medium,Blue-Medium-Blue-5

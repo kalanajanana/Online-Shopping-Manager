@@ -1,0 +1,6 @@
+C001-Short-Clothing-40.0-Large,Brown-Large-Brown-7
+C002-TShirt-Clothing-30.0-Small,Black-Small-Black-3
+C003-Shirt-Clothing-10.0-Medium,Blue-Medium-Blue-5
+E001-Headset-Electronics-20.0-Azus, 48 Weeks warranty-48-Azus-6
+E002-Phone-Electronics-299.99-Apple, 24 Weeks warranty-24-Apple-5
+E003-TV-Electronics-399.99-Samsung, 48 Weeks warranty-48-Samsung-3

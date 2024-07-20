@@ -1,0 +1,48 @@
+Clothes Details:- 
+Product ID is:- C001
+Product Name is:- Short
+Available items:- 7
+Price:- 40.0£
+Size:- Large
+Colour :- Brown
+
+Clothes Details:- 
+Product ID is:- C002
+Product Name is:- TShirt
+Available items:- 3
+Price:- 30.0£
+Size:- Small
+Colour :- Black
+
+Clothes Details:- 
+Product ID is:- C003
+Product Name is:- Shirt
+Available items:- 5
+Price:- 10.0£
+Size:- Medium
+Colour :- Blue
+
+Electronics Details:- 
+Product ID is:- E001
+Product Name is:- Headset
+Available items:- 6
+Price:- 20.0£
+Brand:- Azus
+Warranty Period:- 48 Weeks
+
+Electronics Details:- 
+Product ID is:- E002
+Product Name is:- Phone
+Available items:- 5
+Price:- 299.99£
+Brand:- Apple
+Warranty Period:- 24 Weeks
+
+Electronics Details:- 
+Product ID is:- E003
+Product Name is:- TV
+Available items:- 3
+Price:- 399.99£
+Brand:- Samsung
+Warranty Period:- 48 Weeks
+
